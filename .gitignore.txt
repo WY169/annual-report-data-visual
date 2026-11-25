@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# 缓存
+.cache/
+streamlit_session/
+
+# 临时
+*.log
+*.tmp
